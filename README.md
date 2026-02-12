@@ -1,2 +1,8 @@
 # Robotika
 Pametna kanta
+
+Ideja: na pokret ruke senzor salje signal step motoru koji dize poklopac kante.
+
+Podela: Dusan Grujic(234/22RI) je radio hardverski deo dok je Petar Rilak radio softverski deo.
+
+
